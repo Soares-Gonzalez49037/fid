@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+  <h1>Andrew Soares Gonzazlez</h1><h4><p>Date Created January 19, 2019<br>Resume Page</head><body><h5><p>Andrew Soares-Gonzalez is a Digital Media student at the Seminal State College. My current objective is to graduate with an Associate of Arts degree, then go to the University of Central Florida. When I am there, I will focus on getting my bachelor's degree. My main goal is to become a game designer. The software I am familiar with is Adobe Illustrator, Adobe Photoshop, Google Building Maker and SketchUp. I am skilled in organization, time management, drawing, mathematics, biology, concentration, researching, cooperation, observation, and work ethic. Link to my GitHub repositories is https://github.com/Soares-Gonzalez49037 <a href="https://github.com/Soares-Gonzalez49037" target="_blank">click here</a>.
+<p> Here are five images deign I have made in the past.</p>  
+<img src="Character Desig.jpg" alt="Character Design"><h4><P>Character Design</P></h4>
+  <img src="Compositing Project.jpg" alt="Compositing Project"><h4><p>Compositing Project</p></h4>
+  <img src="Project Clipping.jpg" alt="Project Clipping"><h4><p>Project Clipping</p></h4>
+  <img src="Unity Project Color .jpg" alt="Unity Project Color"><h4><p>Unity Project Color</p></h4>
+  <img src="Unity Project Grayscale.jpg" alt="Unity Project Grayscale"><h4><p>Unity Project Grayscale</p></h4></body></html>
+	
+
